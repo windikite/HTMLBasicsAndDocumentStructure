@@ -7,3 +7,5 @@ My 24th assignemnt! This is a simple html + css webpage showing some of the basi
 5. The suggestion to have the cookies with a glass of milk (I usually prefer hot chocoloate though).  
 
 Almost none of the styling was not required by the assignment, but I had a good time designing it anyway. 
+
+![website preview](https://raw.githubusercontent.com/Windikite/HTMLBasicsAndDocumentStructure/master/website_preview.png)
